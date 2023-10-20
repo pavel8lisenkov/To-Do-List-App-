@@ -198,7 +198,6 @@ function doneAllTasks(event) {
   tasks.forEach(function (task) {
     renderTask(task);
   })
-
 }
 
 // Удаление всех задач из списка
